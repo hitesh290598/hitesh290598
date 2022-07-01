@@ -6,7 +6,7 @@ Experienced in Python, Django, Flask and SQL with strong analytical skills. Work
 
 Skills: PYTHON / SQL / ML / NLTK / Streamlit
 
-- 🔭 I’m currently working on Image Analysis 
+- 🔭 I’m currently working on MLOps
 - 🌱 I’m currently learning BERT 
 
 
