@@ -2,7 +2,7 @@
 #### Data Analytics / Data Science
 <!-- ![Data Analytics / Data Science](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-Experienced in Python, Django, Flask and SQL with strong analytical skills. Worked on projects that focused on Machine Learning and Deep Learning Algorithm and TensorFlow 2.0 of various domains such as retail, e-commerce, financial, insurance, etc. Always willing to explore more in the world of AI/ML field. Strong engineering professional graduated in M.Sc. Big Data and Business Analytics from FOM University of Applied Sciences for Economics and Management, Germany.
+Passionate about Data Science and Analytics with 1+ year of hands-on experience. Proficient in extracting valuable insights from complex data sets using Python, SQL, and machine learning techniques. Proficient in data preprocessing, analysis, and visualization. Strong communication and problem solving skills. Excited to connect and contribute to the ever-evolving world of data-driven decision-making.
 
 Skills: PYTHON / SQL / ML / NLTK / Streamlit
 
