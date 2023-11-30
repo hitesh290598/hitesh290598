@@ -6,8 +6,8 @@ Passionate about Data Science and Analytics with 1+ year of hands-on experience.
 
 Skills: PYTHON / SQL / ML / NLTK / Streamlit
 
-- 🔭 I’m currently working on MLOps
-- 🌱 I’m currently learning BERT 
+- 🔭 I’m currently working on MLOps and data pipeline
+- 🌱 I’m currently learning Cloud Technologies
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hitesh290598)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hitesh-kale-371a96120/)  
