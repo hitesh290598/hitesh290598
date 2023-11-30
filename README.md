@@ -2,7 +2,7 @@
 #### Data Analytics / Data Science
 <!-- ![Data Analytics / Data Science](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-Passionate about Data Science and Analytics with 1+ year of hands-on experience. Proficient in extracting valuable insights from complex data sets using Python, SQL, and machine learning techniques. Proficient in data preprocessing, analysis, and visualization. Strong communication and problem solving skills. Excited to connect and contribute to the ever-evolving world of data-driven decision-making.
+Passionate about Data Science and Analytics with 1+ year of hands-on experience. Proficient in extracting valuable insights from complex data sets using Python, SQL, Machine Learning, and NLP techniques. Proficient in data preprocessing, analysis, and visualization. Strong communication and problem solving skills. Excited to connect and contribute to the ever-evolving world of data-driven decision-making.
 
 Skills: PYTHON / SQL / ML / NLTK / Streamlit
 
